@@ -3,8 +3,8 @@
 A side project aimed to familiarize me with React Native ecosystem.  
 The builder allows you to compose an imaginary pizza 🍕 Only best ingredients, 100% vegan.
 
-![alt text](https://github.com/anna-morawska/react-native-pizza-builder/)
-![alt text](https://github.com/anna-morawska/react-native-pizza-builder/)
+![screenshots set](https://github.com/anna-morawska/react-native-pizza-builder/blob/master/assets/readme-1.jpg)
+![screenshots set](https://github.com/anna-morawska/react-native-pizza-builder/blob/master/assets/readme-2.jpg)
 
 ## Usage
 
